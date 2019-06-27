@@ -1,0 +1,9 @@
+1：课后对jdk8的聚集stream操作学习一下，效率与for循环比较一下；
+
+2：KeySet、EntrySet遍历HashMap，比较哪个方法比较快，为什么？
+
+3：比较TreeMap和HashMap，自己总结一下从那个几个方面进行比较；
+
+4：建议查阅Collections工厂，看看它提供了些什么东西；
+
+5：建议对jdk8的lambda和stream仔细研究下，也许未来是个趋势，也建议大家读读python的书，与Java对比一下。
