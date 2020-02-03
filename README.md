@@ -11,9 +11,8 @@ TREEFY_THRESHOLD,UNTREEIFY_THRESHOLD,
     
     注意他们对HashMap的存储空间table的影响，何时发生影响、他们的值的变化规律。
     
-    可以下载目录中的HashMap之putval的算法流程.pptx，若有问题，请大家纠正。
-    
-    
+     可以下载目录中的HashMap之putval的算法流程.pptx，若有问题，请大家纠正。
+        
 https://blog.csdn.net/jstxzhangrui/article/details/79933923
 可参考上面的地址阅读hashmap源代码。
 
